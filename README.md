@@ -1,1 +1,2 @@
 # Game_Engine_4
+工程文件和可执行文件都在master branch里，且cloth和break在同一个工程。可执行文件都在built文件夹里
